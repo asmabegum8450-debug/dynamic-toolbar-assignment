@@ -1,12 +1,12 @@
-# Custom Alert Buttons React App
+# Dynamic Toolbar Assignment
 
-This project demonstrates a reusable AlertButton component inside a Toolbar.
+This project demonstrates dynamic rendering of alert buttons using React and Vite.
 
 ## Features
-- Uses props
-- Uses children prop
-- Uses onClick event handler
-- Shows alert messages for different buttons
+- Uses .map() to render buttons
+- Passes props to child components
+- Uses unique key prop
+- Displays alert message on click
 
 ## Run Project
 
